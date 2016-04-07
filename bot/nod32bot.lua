@@ -245,14 +245,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {10800687},--Sudo users
+	    sudo_users = {108800687},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/ESMAILESMAIL/komando2.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : ندارد
+sodu : @hackertanha
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -518,7 +518,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: ندارد
 
 G00D LUCK ^_^
 ]]
